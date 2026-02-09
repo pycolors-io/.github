@@ -1,54 +1,64 @@
-# PyColors UI
+# PyColors
 
-**Documentation-first UI system for SaaS & AI products.**
+**Production-grade UI foundations for modern SaaS teams.**
 
-PyColors UI is a production-oriented design system focused on helping teams
-ship consistent interfaces faster — without sacrificing clarity or scalability.
+PyColors is building a cohesive ecosystem to help teams design, ship, and scale products faster.
 
----
+## Ecosystem
 
-## What it is
+- **PyColors UI** — Accessible, scalable UI primitives  
+- **Starters** — Production-ready architectures  
+- **Templates** — High-quality product foundations  
 
-- **Radix-based UI primitives** with stable APIs
-- **Semantic token system** for scalable theming
-- **Documentation-first approach**  
-  Preview → Usage → Code → Props
-- Designed for **real SaaS products**, not demo kits
+Our goal is simple:
 
----
-
-## What ships today (v1.x)
-
-- Button, Input, Badge, Card, Alert
-- Predictable variants, sizing, and interaction states
-- Complete documentation baseline
-- Public roadmap and changelog
+> Reduce the time between idea and production.
 
 ---
 
-## Direction
+## Products
 
-PyColors UI evolves in clear stages:
+### PyColors UI
+Production-ready components designed for real-world SaaS applications.
 
-1. **UI primitives** (stable, documented)
-2. **Blocks & patterns** (marketing + SaaS)
-3. **Commercial templates** built on the same system
-
-Early templates may ship ahead of full UI migration,
-with a clear upgrade path.
+→ https://github.com/pycolors-io/pycolors-ui
 
 ---
 
-## Links
+### SaaS Starter (Free)
+Launch faster with a scalable, developer-first architecture powered by PyColors UI.
 
-- 🌐 Website: https://pycolors.io  
-- 📚 Documentation: https://pycolors.io/docs  
-- 🧩 Components: https://pycolors.io/docs/ui  
-- 📦 Templates: https://pycolors.io/templates  
-- 🗺 Roadmap: https://pycolors.io/roadmap  
-- 📝 Changelog: https://pycolors.io/changelog  
+→ https://github.com/pycolors-io/pycolors-starter-free
 
 ---
 
-Building in public.  
-Shipping consistently.
+### Website
+Explore the ecosystem:
+
+→ https://pycolors.io
+
+---
+
+## Philosophy
+
+We believe great products are built on strong foundations:
+
+- Documentation-first  
+- Accessibility by default  
+- Predictable APIs  
+- Scalable architecture  
+
+PyColors focuses on the fundamentals that enable teams to move fast without sacrificing quality.
+
+---
+
+## What's coming next
+
+- Starter Pro  
+- Premium templates  
+- Advanced blocks  
+- Expanded design system  
+
+---
+
+**Ship faster. Design better. Scale confidently.**
